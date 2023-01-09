@@ -1,0 +1,7 @@
+.banner__imagem{
+    width: 23%;
+    height: auto;
+    background: #fff0f0;
+    display: inline-block;
+    border-left: 100px;
+}

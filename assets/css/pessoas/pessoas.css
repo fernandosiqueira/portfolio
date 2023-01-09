@@ -1,0 +1,12 @@
+.pessoas{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+
+@media screen and (max-width:768px) {
+    .pessoas{
+        display: block;
+    }
+    
+}
