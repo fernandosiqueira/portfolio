@@ -1,13 +1,20 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+import { SiVtex } from "react-icons/si";
 import {
-  DiJavascript1,
+  DiMagento,
+  DiWordpress,
   DiReact,
   DiNodejs,
   DiMongodb,
   DiPython,
   DiGit,
+  DiScrum,
+  DiCss3,
+  DiDocker,
+  DiHtml5,
+  DiJavascript,
+  DiLinux,
 } from "react-icons/di";
 import {
   SiPytorch,
@@ -19,22 +26,37 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <SiVtex />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <DiMagento />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiWordpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiScrum />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJavascript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiLinux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
@@ -43,13 +65,13 @@ function Techstack() {
         <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <DiMongodb />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
-      </Col>
+      
     </Row>
   );
 }
 
 export default Techstack;
+
+

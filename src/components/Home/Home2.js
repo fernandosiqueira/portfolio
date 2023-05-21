@@ -19,37 +19,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with Omnichannel
+              and I think I at least learned something I guess… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Already in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Magento and Vtex. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My area of ​​interest is the construction of new  &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple"> Technologies and Processes </b>  in areas related toWeb Technologies and Products and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Omnichannel and Online Sales.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              Whenever possible, I also apply my passion for developing products with  <b className="purple">Python and Javascript</b> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -113,3 +102,5 @@ function Home2() {
   );
 }
 export default Home2;
+
+
