@@ -19,26 +19,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with Omnichannel
+              I fell in love with Development and Omnichannel
               and I think I at least learned something I guess… 🤷‍♂️
               <br />
               <br />Already in classics like
               <i>
-                <b className="purple"> Magento and Vtex. </b>
+                <b className="purple"> Javascript and Python. </b>
               </i>
               <br />
               <br />
-              My area of ​​interest is the construction of new  &nbsp;
+              My area of ​​interest is the construction of new &nbsp;
               <i>
-                <b className="purple"> Technologies and Processes </b>  in areas related toWeb Technologies and Products and
-                also in areas related to{" "}
-                <b className="purple">
-                  Omnichannel and Online Sales.
-                </b>
+                Development in areas related to Web Technologies and Products and
+                also in areas related to{" "} Omnichannel and Online Sales.
               </i>
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products with  <b className="purple">Python and Javascript</b> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -56,7 +51,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/fernandosiqueira"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -66,7 +61,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/ofernaa"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,7 +71,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/fernandosiqueira01/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -86,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/ofernah/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

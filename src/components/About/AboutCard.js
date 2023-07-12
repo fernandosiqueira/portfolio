@@ -12,7 +12,7 @@ function AboutCard() {
             <br />I'm<span className="purple"> Fernando Siqueira </span>
             from <span className="purple">São José dos Campos, Br. </span>
              I am a Jr. Tech Lead and Business Analyst Omnichannel in ITA VENTURES.
-            <br />Graduated in Systems Analysis and Development at UNIP and studying MBA in Intelligence and Omnichannel Retail Management at ESPM.
+            <br />Graduated in Systems Analysis and Development at UNIP.
             <br />
             <br />
             <br />
@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> To Cook
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> To Travel
             </li>
           </ul>
 
